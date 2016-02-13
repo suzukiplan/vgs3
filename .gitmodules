@@ -7,3 +7,9 @@
 [submodule "vgs-spu"]
 	path = vgs-spu
 	url = https://github.com/suzukiplan/vgs-spu.git
+[submodule "ogg"]
+	path = ogg
+	url = https://git.xiph.org/ogg.git
+[submodule "vorbis"]
+	path = vorbis
+	url = https://git.xiph.org/vorbis.git
