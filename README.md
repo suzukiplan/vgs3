@@ -2,6 +2,7 @@
 [WIP] SUZUKI PLAN - Video Game System Mark-III
 
 ## description
+![architecture](https://raw.githubusercontent.com/suzukiplan/vgs3/master/image/architecture.png)
 - VGS MK-II SR をより柔軟な設計でデザインし直したもの
 - VGSのゲームインスタンスをViewとして定義可能
 - variable screen size
