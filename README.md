@@ -9,7 +9,7 @@
 #### separation of the game and app
 - 従来の VGS は ROMDATA.BIN にアセットしか含まなかったが, mk-III では プログラム が含まれます
 - mk-III のプログラムは, 既存のCPU向けのマシン語ではなく独自の 32bit CPU（VGS-CPU）が解釈実行できるマシン語で記述する
-- VGS-CPU向けのマシン語は独自アセンブリ言語（VGS-ASM）からアセンブルできる
+- VGS-CPU向けのマシン語は独自アセンブリ言語（VGS-ASM）でアセンブルできる
 
 #### VGS-CPU
 - データモデル: 32bit little endian
