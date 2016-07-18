@@ -1,9 +1,0 @@
-language: c
-addons:
-  apt:
-    packages:
-    - libogg-dev
-script:
-  - ./autogen.sh
-  - ./configure
-  - make distcheck
