@@ -1,3 +1,0 @@
-[submodule "src/ogg"]
-	path = src/ogg
-	url = https://git.xiph.org/ogg.git
