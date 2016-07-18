@@ -1,0 +1,9 @@
+.DS_Store
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.lib
+*.map
+*.exp
+*.obj

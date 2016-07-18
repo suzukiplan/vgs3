@@ -1,0 +1,5 @@
+vgs2mml
+*.dSYM
+test.bgm
+test_memchk
+
