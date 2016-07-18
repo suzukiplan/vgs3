@@ -1,15 +1,3 @@
-[submodule "vgs-bgm-decoder"]
-	path = src/vgs-bgm-decoder
-	url = https://github.com/suzukiplan/vgs-bgm-decoder.git
-[submodule "vgs-mml-compiler"]
-	path = src/vgs-mml-compiler
-	url = https://github.com/suzukiplan/vgs-mml-compiler.git
-[submodule "vgs-spu"]
-	path = src/vgs-spu
-	url = https://github.com/suzukiplan/vgs-spu.git
-[submodule "ogg"]
+[submodule "src/ogg"]
 	path = src/ogg
 	url = https://git.xiph.org/ogg.git
-[submodule "vorbis"]
-	path = src/vorbis
-	url = https://git.xiph.org/vorbis.git
